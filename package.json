@@ -34,7 +34,7 @@
     "@actions/io": "^1.1.1",
     "class-validator": "^0.13.2",
     "js-yaml": "^4.1.0",
-    "semver": "^7.3.7"
+    "semver": "^7.3.8"
   },
   "devDependencies": {
     "@babel/core": "^7.21.0",
@@ -42,7 +42,7 @@
     "@types/jest": "^27.4.0",
     "@types/js-yaml": "^4.0.2",
     "@types/node": "^18.14.2",
-    "@types/semver": "^7.3.8",
+    "@types/semver": "^7.3.13",
     "@types/validator": "^13.7.12",
     "jest": "^27.4.7",
     "jest-circus": "^29.5.0",
